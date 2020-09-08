@@ -1,3 +1,3 @@
 # Personal page
 
-Hi, I'm teaching this class :)
+Hi, I'm Harish student of Reivax :)
