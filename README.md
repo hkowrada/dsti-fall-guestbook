@@ -2,4 +2,4 @@
 
 * [Xavier Hermand](https://github.com/RReivax) : [my page](pages/hermand.md)
 
-Line from Sebastien 
+* [Castier Sebastien](https://github.com/scastier) : [my_page](pages/sebastien.md)
