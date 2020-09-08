@@ -1,3 +1,3 @@
 # dsti-fall-guestbook
 
-* [Xavier Hermand](https://github.com/RReivax) : [my page](pages/hermand.md)
+* [Harish Kowrada](https://github.com/hkowrada) : [my page](pages/harish.md)
